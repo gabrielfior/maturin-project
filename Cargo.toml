@@ -8,7 +8,7 @@ description = "A short description of my package"
 repository = "https://github.com/gabrielfior/maturin-project"
 
 [lib]
-name = "guessing_game"
+name = "guessing_game_proton"
 # "cdylib" is necessary to produce a shared library for Python to import from.
 crate-type = ["cdylib"]
 
