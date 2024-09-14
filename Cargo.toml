@@ -1,6 +1,7 @@
 [package]
-name = "guessing-game"
+name = "guessing-game-proton"
 version = "0.1.0"
+author = "gabrielfior_proton"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "A short description of my package"

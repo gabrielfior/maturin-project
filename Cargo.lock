@@ -38,7 +38,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "guessing-game"
+name = "guessing-game-proton"
 version = "0.1.0"
 dependencies = [
  "pyo3",
